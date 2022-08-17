@@ -43,8 +43,23 @@ Objetivos especificos
 
 3.2.1 Construya en el protoboard el circuito 
 
+![image](https://user-images.githubusercontent.com/105722861/185260032-381638d5-f8a4-407d-968e-3de798f3de5a.png)
 
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+3.2.2 Construya en el protoboard el circuito 
+
+![image](https://user-images.githubusercontent.com/105722861/185260216-0f0db342-1611-472e-a6ef-a27a8f09a954.png)
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 
 
