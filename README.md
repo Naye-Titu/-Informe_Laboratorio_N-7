@@ -61,12 +61,23 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+3.2.3 Elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+4.- PREGUNTAS.
 
+A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+B.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+C.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+D.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+5.- VIDEO
+
+6.- CONCLUSIONES
+
+7.- BIBLIOGRAFIÍA.
 
 
 
