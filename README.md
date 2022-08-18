@@ -222,6 +222,8 @@ C. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entr
 
 3.2.3 Elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+![image](https://user-images.githubusercontent.com/105722861/185292326-b2e2117b-63ea-4e01-9be9-4adb6ee5ad17.png)
+
 4.- PREGUNTAS.
 
 A.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
