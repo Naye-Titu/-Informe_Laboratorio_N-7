@@ -248,6 +248,8 @@ Un valor eficaz de una corriente o un voltaje en corriente alterna es el valor d
 
 5.- VIDEO
 
+https://youtu.be/FEPgHAdaEiU
+
 6.- CONCLUSIONES
 
 • Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
