@@ -59,9 +59,81 @@ CAPACITOR
 
 A. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+* Voltaje 0
+
+![image](https://user-images.githubusercontent.com/105722861/185288262-16f11557-47b3-4c68-8590-c0acd6f3acb3.png)
+
+* Voltaje 10
+
+![image](https://user-images.githubusercontent.com/105722861/185288325-cadde853-2632-478b-9361-0384741b5378.png)
+
+* Voltaje 50
+
+![image](https://user-images.githubusercontent.com/105722861/185288375-b82f2af5-98dc-4cc7-abc9-dff74a30ea20.png)
+
+* Voltaje 100
+
+![image](https://user-images.githubusercontent.com/105722861/185288406-fb18feb4-3234-4e33-aabf-14ae7b7f7c51.png)
+
+* Voltaje 500
+
+![image](https://user-images.githubusercontent.com/105722861/185288448-190fab48-2184-4302-96eb-6292d9ee8dde.png)
+
+* Voltaje 1000
+
+![image](https://user-images.githubusercontent.com/105722861/185288499-1cb6add0-64fe-41bf-85d6-4c07f99ba602.png)
+
 B. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+* Voltaje 0
+
+![image](https://user-images.githubusercontent.com/105722861/185288638-ccef4df9-913d-4175-bea3-86612cad54e4.png)
+
+* Voltaje 10
+
+![image](https://user-images.githubusercontent.com/105722861/185288664-708f5f75-aaae-4b72-8347-66831c7aa740.png)
+
+* Voltaje 50
+
+![image](https://user-images.githubusercontent.com/105722861/185288698-1fe0da63-7a99-4988-8411-81c35baa096a.png)
+
+* Voltaje 100
+
+![image](https://user-images.githubusercontent.com/105722861/185288725-9215e3d5-7f7c-4895-b901-6ea689ae5b4b.png)
+
+* Voltaje 500
+
+![image](https://user-images.githubusercontent.com/105722861/185288763-6ef8db0c-df70-418c-934d-28d87aae4d9c.png)
+
+* Voltaje 1000
+
+![image](https://user-images.githubusercontent.com/105722861/185288814-b2ceceac-5b99-46e6-bbb3-96b47242e6dc.png)
+
 C. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+* Voltaje 0
+
+![image](https://user-images.githubusercontent.com/105722861/185288943-f5b1699d-7cb6-4e6f-b55f-34a05cc49ded.png)
+
+* Voltaje 10
+
+![image](https://user-images.githubusercontent.com/105722861/185288994-70ce9f67-7779-4f0e-815d-267eb7a37a22.png)
+
+* Voltaje 50
+
+![image](https://user-images.githubusercontent.com/105722861/185289039-42d9c8fd-bd08-41a6-84ef-e567c1faadf1.png)
+
+* Voltaje 100
+
+![image](https://user-images.githubusercontent.com/105722861/185289073-83271afe-3dd8-49f8-85ec-d9da3fb026a8.png)
+
+* Voltaje 500
+
+![image](https://user-images.githubusercontent.com/105722861/185289119-4acb88f3-b501-423c-8857-51e8abb9132a.png)
+
+* Voltaje 1000
+
+![image](https://user-images.githubusercontent.com/105722861/185289139-382da43d-c6a3-46de-9460-a360f9632add.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 INDUCTOR 
