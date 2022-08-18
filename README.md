@@ -34,6 +34,7 @@ Objetivos especificos
 
 ![image](https://user-images.githubusercontent.com/105722861/185265253-94d9fa4d-7aa0-4754-91fd-ba91ea6adccc.png)
 
+![image](https://user-images.githubusercontent.com/105722861/185267869-d929ad81-1b19-4180-8be3-62c06d3cc799.png)
 
 3.- EXPLICACIÓN DEL PROCEDIMIENTO
 
